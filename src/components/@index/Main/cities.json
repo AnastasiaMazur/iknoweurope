@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Amsterdam",
+    "position": {
+      "lat": 52.370216,
+      "lng": 4.895168
+    }
+  },
+  {
+    "name": "Rome",
+    "position": {
+      "lat": 41.902782,
+      "lng": 12.496366
+    }
+  },
+  {
+    "name": "Zurich",
+    "position": {
+      "lat": 47.414154,
+      "lng": 8.526414
+    }
+  },
+  {
+    "name": "Madrid",
+    "position": {
+      "lat": 40.41689,
+      "lng": -3.703309
+    }
+  },
+  {
+    "name": "London",
+    "position": {
+      "lat": 51.50735,
+      "lng": -0.127758
+    }
+  },
+  {
+    "name": "Oslo",
+    "position": {
+      "lat": 59.913868,
+      "lng": 10.752245
+    }
+  },
+  {
+    "name": "Paris",
+    "position": {
+      "lat": 48.856613,
+      "lng": 2.352222
+    }
+  },
+  {
+    "name": "Vienna",
+    "position": {
+      "lat": 48.208176,
+      "lng": 16.37382
+    }
+  },
+  {
+    "name": "Berlin",
+    "position": {
+      "lat": 52.523727,
+      "lng": 13.419962
+    }
+  }
+]
